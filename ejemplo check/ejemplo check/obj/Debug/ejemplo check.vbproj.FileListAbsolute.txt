@@ -1,0 +1,15 @@
+c:\users\envy\documents\visual studio 2013\Projects\ejemplo check\ejemplo check\bin\Debug\ejemplo check.exe.config
+c:\users\envy\documents\visual studio 2013\Projects\ejemplo check\ejemplo check\obj\Debug\ejemplo_check.Form1.resources
+c:\users\envy\documents\visual studio 2013\Projects\ejemplo check\ejemplo check\obj\Debug\ejemplo_check.Resources.resources
+c:\users\envy\documents\visual studio 2013\Projects\ejemplo check\ejemplo check\obj\Debug\ejemplo check.vbproj.GenerateResource.Cache
+c:\users\envy\documents\visual studio 2013\Projects\ejemplo check\ejemplo check\bin\Debug\ejemplo check.exe
+c:\users\envy\documents\visual studio 2013\Projects\ejemplo check\ejemplo check\bin\Debug\ejemplo check.pdb
+c:\users\envy\documents\visual studio 2013\Projects\ejemplo check\ejemplo check\bin\Debug\ejemplo check.xml
+c:\users\envy\documents\visual studio 2013\Projects\ejemplo check\ejemplo check\obj\Debug\ejemplo check.exe
+c:\users\envy\documents\visual studio 2013\Projects\ejemplo check\ejemplo check\obj\Debug\ejemplo check.xml
+c:\users\envy\documents\visual studio 2013\Projects\ejemplo check\ejemplo check\obj\Debug\ejemplo check.pdb
+c:\users\envy\documents\visual studio 2013\Projects\ejemplo check\ejemplo check\obj\Debug\ejemplo_check.ejemplo_scroll.resources
+C:\Users\ENVY\Documents\Visual Studio 2013\Projects\ejemplo check\ejemplo check\obj\Debug\ejemplo_check.archivos.resources
+C:\Users\ENVY\Documents\Visual Studio 2013\Projects\ejemplo check\ejemplo check\obj\Debug\ejemplo_check.calendario.resources
+C:\Users\ENVY\Documents\Visual Studio 2013\Projects\ejemplo check\ejemplo check\obj\Debug\ejemplo_check.radiobuttom.resources
+C:\Users\ENVY\Documents\Visual Studio 2013\Projects\ejemplo check\ejemplo check\obj\Debug\ejemplo check.vbprojResolveAssemblyReference.cache
